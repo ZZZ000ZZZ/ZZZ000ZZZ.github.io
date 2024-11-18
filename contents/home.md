@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![senli1073](https://img.shields.io/badge/ZZZ000ZZZ-github-blue?logo=github)](https://github.com/ZZZ000ZZZ)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently pursuing a Master's Degree in Control Engneering, at College of MechaTronics & Control Engineering, ShenZhen University, China.
 
 #### Email
-sli[at]cumt.edu.cn
+yafei.zhou0927@gmail.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Control Engneering, ShenZhen University, 2024—2027 (expected).\
+B.E., Intelligent Manufacturing Engineering, Dongguan University of Technology, 2020—2024.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Deep Learning, Vision-Based Tatile Sensor, Robotic.
 
