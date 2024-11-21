@@ -2,7 +2,7 @@
 
 [![senli1073](https://img.shields.io/badge/ZZZ000ZZZ-github-blue?logo=github)](https://github.com/ZZZ000ZZZ)
 
-He is currently pursuing a Master's Degree in Control Engneering, at College of MechaTronics & Control Engineering, ShenZhen University, China.
+He is currently pursuing a Master's Degree in Control Engneering, at College of MechaTronics & Control Engineering, Shenzhen University, China.
 
 #### Email
 yafei.zhou0927@gmail.com
