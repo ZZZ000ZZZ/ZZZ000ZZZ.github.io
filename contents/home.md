@@ -12,5 +12,5 @@ M.E., Control Engneering, ShenZhen University, 2024—2027 (expected).\
 B.E., Intelligent Manufacturing Engineering, Dongguan University of Technology, 2020—2024.
 
 #### Research Interests
-Deep Learning, Vision-Based Tatile Sensor, Robotic.
+Deep Learning, Vision-Based Tactile Sensor, Robotic.
 
