@@ -8,7 +8,7 @@ He is currently pursuing a Master's Degree in Control Engneering, at College of 
 yafei.zhou0927@gmail.com
 
 #### Education
-M.E., Control Engneering, ShenZhen University, 2024—2027 (expected).\
+M.E., Control Engneering, Shenzhen University, 2024—2027 (expected).\
 B.E., Intelligent Manufacturing Engineering, Dongguan University of Technology, 2020—2024.
 
 #### Research Interests
