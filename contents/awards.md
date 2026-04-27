@@ -7,3 +7,4 @@
 - First-prize Enterprise Scholarship, 2021.
 
 - First-prize Academic Scholarship, 2019. -->
+- Excellent Graduate of Dongguan University of Technology, 2024.
