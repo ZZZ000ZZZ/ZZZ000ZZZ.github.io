@@ -2,8 +2,7 @@
 
 [![senli1073](https://img.shields.io/badge/ZZZ000ZZZ-github-blue?logo=github)](https://github.com/ZZZ000ZZZ)
 
-I am currently pursuing a master’s degree in Control Engineering through a joint training program between the College of Mechatronics and Control Engineering at Shenzhen University and the School of Advanced Engineering at Great Bay University.
-
+Welcome to my homepage! I am currently pursuing an M.Eng. in Control Engineering at Shenzhen University, with joint research training at the School of Advanced Engineering, Great Bay University.
 #### Email
 yafei.zhou0927@gmail.com
 
