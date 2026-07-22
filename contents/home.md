@@ -8,7 +8,7 @@ I am currently pursuing a master’s degree in Control Engineering through a joi
 yafei.zhou0927@gmail.com
 
 #### Education
-M.E., Control Engineering, Shenzhen University & Great Bay University, 2024—2027 (expected).\
+M.E., Control Engineering, Shenzhen University & Great Bay University, 2024—2027 (Expected).\
 B.E., Intelligent Manufacturing Engineering, Dongguan University of Technology, 2020—2024.
 
 #### Research Interests
